@@ -1,8 +1,8 @@
 <img src="attachments/foam-icon.png" width=100 align="left">
 
-# Foam
+# What is Socialism?
 
-**👋 Welcome to your new Foam Knowledge Base!**
+**👋 We're all doing our best to figure it out!**
 
 ## Getting started
 
