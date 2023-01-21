@@ -20,4 +20,4 @@ Socialism doesn't exist divorced from institutions and politics, as pure theory 
 
 ## Who am I?
 
-I've been a [[DSA]] member and [[Jacobin]] subscriber since 2014. I coordinated Jacobin reading group in the pre-Bernie days 2014-15 and have served on the executive committees for DSA chapters and attended two DSA national conventions in 2015 & 2017.
+I've been a [[DSA]] member and [[Jacobin]] subscriber since 2014. I coordinated Jacobin reading group in the pre-[[Bernie]] days 2014-15 and have served on the executive committees for DSA chapters and attended two DSA national conventions in 2015 & 2017. 
