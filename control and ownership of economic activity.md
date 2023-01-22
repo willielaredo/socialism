@@ -7,11 +7,10 @@ Ownership needs to be held by the people or the workers or by the people as work
 **Socialism via Government Ownership**
 A government that has the consent of the people, a democratic government, could be the owning institution to usher in socialism, as long as it remains democratic. Once the government is no longer representative of the people or the workers then the portion of the economy controlled or owned by the government can no longer be tallied in the "Socialist" column. 
 
-See this exchange:
+I like this definition here:
+>The idea here is that state ownership is socialistic when the state is controlled by the people, i.e. democratically accountable. They have free and fair elections in the Nordic countries and those elections actually involve considerable deliberation about state ownership policy.
 
 ![Twitter exchange talking about whether state ownership is inherently socialist](attachments/state-ownership-socialist.png)
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The idea here is that state ownership is socialistic when the state is controlled by the people, i.e. democratically accountable. They have free and fair elections in the Nordic countries and those elections actually involve considerable deliberation about state ownership policy.</p>&mdash; Matt Bruenig (@MattBruenig) <a href="https://twitter.com/MattBruenig/status/1616484536237293597?ref_src=twsrc%5Etfw">January 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 This is why it is essential for socialism to be married to a democratic state apparatus that represents the people, so that socialists can use the government as the means to worker control over the economy. 
 
