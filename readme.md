@@ -5,12 +5,14 @@ Socialism is a contested word that has meant a lot of different things to differ
 
 Socialism doesn't exist divorced from institutions and politics, as pure theory or ideology. The idea of socialism is intertwined with the activity of socialism, dialectically you might say.
 
+A necessary and maybe sufficient condition for the existence of socialism is the [[control and ownership of economic activity]] by the people. The people here can be defined broadly as all the people collectively, or more narrowly as the working class, which comprise the vast majority of the people, but not all of them, but about 99% of them. 
+
 To ask "what is socialism?" may be the same as asking "what do socialists do?" [[Lenin]] wrote a famous book called "What is to be done?" and while I don't identify as a Leninist (and have not read that book), I ask myself this question a lot. 
 
 **Possible areas of socialist exploration**
 - Campaigns
   - Winnable reforms in the here and now: are they socialist? 
-- Organizations/Tendencies/Parties
+- [[Organizations, Tendencies, Parties]]
   - How to get there: the vehicles we ride in and the roads we ride on
 - [[Models]]
   - How will we recognize socialism if we see it? Should we think about what it might look like?
