@@ -14,5 +14,7 @@ The socialisticness or capitalisticness of a country or an economy should be mea
 
 The capitalist/socialist spectrum should not be conflated with the private/public spectrum. This was a clear point of confusion during the 2015 bernie campaign. Both the [National Review](https://www.nationalreview.com/2015/10/socialism-united-states-meme/) and [Jacobin](https://jacobin.com/2016/01/democratic-socialism-government-bernie-sanders-primary-president/) posted critiques of the meme that was going around everywhere listing any government action as socialism.
 
+![Socialist Programs meme](attachments/socialist_programs_meme.jpg)
+
 
 
