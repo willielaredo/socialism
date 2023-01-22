@@ -14,7 +14,7 @@ Possible areas of socialist exploration:
   - Winnable reforms in the here and now: are they socialist? 
 - Organizations/Tendencies/Parties
   - How to get there: the vehicles we ride in and the roads we ride on
-- Models
+- [[Models]]
   - How will we recognize socialism if we see it? Should we think about what it might look like?
 - History
   - How have people answered the question in the past?
