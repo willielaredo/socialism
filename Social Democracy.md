@@ -18,3 +18,8 @@ Pre-War Socialism (that social democracy transplanted)
 
 Berman again, claiming social democracy as a vision of socialism    
 >social democracy should be seen as a distinctive ideology and movement all its own, built on a belief in the primacy of politics and communitarianism and representing a non-Marxist vision of socialism
+
+Michael Kazin in [this New Yorker article](https://www.newyorker.com/news/q-and-a/how-socialist-is-bernie-sanders) used the phrase "worker-controlled society" as a euphemism for socialism. But based on the Berman language above, worker/public *control* of the economy or society is quite distinct from worker/public *ownership*. 
+
+Kazin, in the same article gives a definition of socialism, in comparison to populism:
+    >Socialism is a much more explicit, well-defined doctrine, which includes specific, well-defined policies: the ownership of major means of production, a larger welfare state, more powerful unions, civil liberties for all, especially those who dissent from conventional economic doctrines
