@@ -7,7 +7,7 @@ Socialism doesn't exist divorced from institutions and politics, as pure theory 
 
 A necessary and maybe sufficient condition for the existence of socialism is the [[control and ownership of economic activity]] by the people. The people here can be defined broadly as all the people collectively, or more narrowly as the working class, which comprise the vast majority of the people, but not all of them, but about 99% of them. 
 
-**Possible areas of socialist exploration**
+## Areas for exploration**
 - Campaigns
   - Winnable reforms in the here and now: are they socialist? 
 - [[Organizations, Tendencies, Parties]]
@@ -24,6 +24,11 @@ A necessary and maybe sufficient condition for the existence of socialism is the
 ## Other people's words
 I like to read about socialism, but haven't tried to keep track of all the things I read about it, so here goes!
 - LINK TO [[READING LIST]]
+
+## Why Socialism?
+My favorite slogan for socialism is "[Converting Hysterical Misery into Ordinary Unhappiness](https://jacobin.com/2013/12/socialism-converting-hysterical-misery-into-ordinary-unhappiness/)"
+
+It won't solve all your problems, but it should make things less worse. 
 
 ## Why this site?
 
