@@ -1,4 +1,4 @@
-# media
+# hobbyism vs doing socialism
 
 I like to think about socialism in relation to sports: there are the players, the sports journalists: talk radio hosts, columnists, tv talk show hosts, etc. and the fans: the people who watch the games and the commentary and talk about it among themselves, calling into sports talk radio, posting on social media, etc. 
 
