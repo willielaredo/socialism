@@ -1,7 +1,7 @@
 <!-- <img src="attachments/foam-icon.png" width=100 align="left"> -->
 **👋 We're all doing our best to figure it out, right?**
 
-Socialism is a contested word that has meant a lot of different things to different people over the world and across time. And I think about it differently as time goes on and the objective social conditions change. 
+Socialism is a contested word that has meant a lot of different things to different people over the world and across time.
 
 Socialism doesn't exist divorced from institutions and politics, as pure theory or ideology. The idea of socialism is intertwined with the activity of socialism, dialectically you might say.
 
@@ -11,29 +11,34 @@ A necessary and maybe sufficient condition for the existence of socialism is the
 We can use a traveling metaphor to help us think through socialist organizations, theories of change, and models for the future.  
 
 ### The vehicle
-The vehicle has traditionally been called "the party", but is really just the organizational form the socialist movement takes and shouldn't be confused with what we think of today as political parties like the Republicans or the Democrats. We may recognize that the vehicle we're currently in has no chance of getting us where we need to go, so while we still ride in it and do our best to move along, we spend part of our time dreaming up the design of new vehicles with better technology. The role of labor unions is central to this question.
+The vehicle has traditionally been called "the party", but is really just the organizational form the socialist movement takes and shouldn't be confused with what we think of today as political parties like the Republicans or the Democrats. We may recognize that the vehicle we're currently in has no chance of getting us where we need to go, so while we still ride in it and do our best to move along, we spend part of our time dreaming up the design of new vehicles with better technology.
 
-There's also not just one vehicle, but a fleet. Some may not be explicitly socialist vehicles, but play essential roles nonetheless, like labor unions.
+There's also not just one vehicle on our journey, but a fleet. Some may not be explicitly socialist vehicles, but play essential roles nonetheless, like labor unions.
 
 ### The fuel
-What powers the vehicle? Our mobilizing and organizing is the fuel. People power is the corny way of saying it. We don't move without moving people. THe fuel we use for the socialist vehicle is the same fuel used for a lot of other vehicles to get them to different destinations. 
+What powers the vehicle? Our mobilizing and organizing is the fuel. People power is the corny way of saying it. We don't move without moving people. The fuel we use for the socialist vehicle is the same fuel used for a lot of other vehicles to get them to different destinations, so we can both learn from and capture energy from other movements to use for our own.
+
+An important consideration here is how many people are needed. Do we need a small number of people with a lot of energy, or a lot of people that each contribute a bit less to the overall fuel. Getting the fuel mixture right is key to success.
 
 ### Our itinerary
-Our itinerary is the strategy and tactics we use in the short and medium term. How far can we go in a given amount of time? How much time do we need to rest along the way? How do we build up enough power at the right times to overcome a substantial obstacle in our path? What if we find ourselves stuck in a rut or with some portion of the vehicle not working? Campaigns would fall here: medicare for all, electoral campaigns, the fight for the green new deal, prison abolition, etc. 
+Our itinerary is the strategy and tactics we use in the short and medium term. How far can we go in a given amount of time? How much time do we need to rest along the way? How do we build up enough power at the right times to overcome a substantial obstacle in our path? What if we find ourselves stuck in a rut or with some portion of the vehicle not working? Campaigning would fall here: medicare for all, electoral campaigns, the fight for the green new deal, prison abolition, etc. 
 
 ### The roads we navigate
-The road we're on is all of society. We have to have great cartographers that can study and document the terrain so the turns we take lead us to the expected places and the times it takes to get there are reasonably accurate. Which actors on our journey will try to stop us? Are they stronger or weaker than we are? Do we have a good chance of defeating them and moving closer to our goals?
+The road we're on is broad: it encompasses all of society. We need great cartographers that can study and document the terrain so the turns we take lead us to the expected places and the times it takes to get there are reasonably accurate. Which actors on our journey will try to stop us? Are they stronger or weaker than we are? Do we have a good chance of defeating them and moving closer to our goals? 
+
+Roads were constructed by people and can be removed, re-routed, etc. The objective conditions we find along our path and scout out ahead of us are not static. We also need earthmovers construction crews to pave the way for our movement. We cannot take as given the terrain we find. History is a juggernaut, but not immovable and it course is impermanent.
 
 ### The destination/horizon
 The destination is socialism. We have to know where it is so we can head towards it and we need to be able to recognize it when we arrive.
 
-You might prefer to think of the destination as a horizon that can never be reached, that always appears to evade our grasp the further we go, but gives us a target and a vision on where to go. While this may be more accurate, we may never arrive, its nice to think that at some point some of our future comrades will be able to rest after completing the work of building socialism, so I'll continue with destination here.
+But since the idea and movement of socialism is historically and culturally contingent, it is up for all of us to decide what it is and when to declare we have arrived. 
+
+Alternately we can think of a horizon that can never be reached, that always appears to evade our grasp the further we go, but gives us a target and a vision on where to go. 
 
 We could think of destinations as [[models]] of the socialist future.
 
 ## Other people's words
-I like to read about socialism, but haven't tried to keep track of all the things I read about it, so here goes!
-- LINK TO [[READING LIST]]
+I like to read about socialism, but haven't kept track of [all I read or want to read](READING%20LIST.md), so doing so here!
 
 ## Why Socialism?
 My favorite slogan for socialism is "[Converting Hysterical Misery into Ordinary Unhappiness](https://jacobin.com/2013/12/socialism-converting-hysterical-misery-into-ordinary-unhappiness/)"
