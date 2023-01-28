@@ -1,4 +1,6 @@
-# The Fuel: the power that moves moves the vehicle forward
+# fuel
+
+## The Fuel: the power that moves moves the vehicle forward
 
 - (Deep) Canvassing
 - Jane McAlevey

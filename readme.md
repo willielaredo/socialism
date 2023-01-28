@@ -23,8 +23,8 @@ An important consideration here is how many people are needed. Do we need a smal
 ### Our itinerary
 Our itinerary is the strategy and tactics we use in the short and medium term. How far can we go in a given amount of time? How much time do we need to rest along the way? How do we build up enough power at the right times to overcome a substantial obstacle in our path? What if we find ourselves stuck in a rut or with some portion of the vehicle not working? Campaigning would fall here: medicare for all, electoral campaigns, the fight for the green new deal, prison abolition, etc. 
 
-### The roads we navigate
-The road we're on is broad: it encompasses all of society. We need great cartographers that can study and document the terrain so the turns we take lead us to the expected places and the times it takes to get there are reasonably accurate. Which actors on our journey will try to stop us? Are they stronger or weaker than we are? Do we have a good chance of defeating them and moving closer to our goals? 
+### The terrain
+The road we're on is broad: it encompasses all of society. We need great cartographers that can study and document the roads, paths, obstacles of the terrain so the turns we take lead us to the expected places and the times it takes to get there are reasonably accurate. Which actors on our journey will try to stop us? Are they stronger or weaker than we are? Do we have a good chance of defeating them and moving closer to our goals? 
 
 Roads were constructed by people and can be removed, re-routed, etc. The objective conditions we find along our path and scout out ahead of us are not static. We also need earthmovers construction crews to pave the way for our movement. We cannot take as given the terrain we find. History is a juggernaut, but not immovable and it course is impermanent.
 

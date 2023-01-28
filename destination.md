@@ -1,4 +1,5 @@
-# The Destination
+# destination
+
 
 [This essay](https://catalyst-journal.com/2023/01/the-market-and-workplace-in-a-democratic-socialism) by Mike Beggs says it's
 >intention is to sketch a plausible vision of a socialist economy without considering the problems of getting there from the present. 

@@ -1,4 +1,6 @@
-# The Vehicle: Organization and Party
+# vehicle
+
+## The Vehicle: Organization and Party
 
 ## Overview
 
