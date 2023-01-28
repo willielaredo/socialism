@@ -11,12 +11,12 @@ A necessary and maybe sufficient condition for the existence of socialism is the
 We can use a traveling metaphor to help us think through socialist organizations, theories of change, and models for the future.  
 
 ### The vehicle
-The vehicle has traditionally been called "the party", but is really just the organizational form the socialist movement takes and shouldn't be confused with what we think of today as political parties like the Republicans or the Democrats. We may recognize that the vehicle we're currently in has no chance of getting us where we need to go, so while we still ride in it and do our best to move along, we spend part of our time dreaming up the design of new vehicles with better technology.
+The [[vehicle]] has traditionally been called "the party", but is really just the organizational form the socialist movement takes and shouldn't be confused with what we think of today as political parties like the Republicans or the Democrats. We may recognize that the vehicle we're currently in has no chance of getting us where we need to go, so while we still ride in it and do our best to move along, we spend part of our time dreaming up the design of new vehicles with better technology.
 
 There's also not just one vehicle on our journey, but a fleet. Some may not be explicitly socialist vehicles, but play essential roles nonetheless, like labor unions.
 
 ### The fuel
-What powers the vehicle? Our mobilizing and organizing is the fuel. People power is the corny way of saying it. We don't move without moving people. The fuel we use for the socialist vehicle is the same fuel used for a lot of other vehicles to get them to different destinations, so we can both learn from and capture energy from other movements to use for our own.
+What powers the vehicle? Our mobilizing and organizing is the [[fuel]]. People power is the corny way of saying it. We don't move without moving people. The fuel we use for the socialist vehicle is the same fuel used for a lot of other vehicles to get them to different destinations, so we can both learn from and capture energy from other movements to use for our own.
 
 An important consideration here is how many people are needed. Do we need a small number of people with a lot of energy, or a lot of people that each contribute a bit less to the overall fuel. Getting the fuel mixture right is key to success.
 
@@ -29,7 +29,7 @@ The road we're on is broad: it encompasses all of society. We need great cartogr
 Roads were constructed by people and can be removed, re-routed, etc. The objective conditions we find along our path and scout out ahead of us are not static. We also need earthmovers construction crews to pave the way for our movement. We cannot take as given the terrain we find. History is a juggernaut, but not immovable and it course is impermanent.
 
 ### The destination/horizon
-The destination is socialism. We have to know where it is so we can head towards it and we need to be able to recognize it when we arrive.
+The [[destination]] is socialism. We have to know where it is so we can head towards it and we need to be able to recognize it when we arrive.
 
 But since the idea and movement of socialism is historically and culturally contingent, it is up for all of us to decide what it is and when to declare we have arrived. 
 
